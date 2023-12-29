@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "tailwind-tutor",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tailwind-tutor"
+	}
+}
